@@ -1,0 +1,1 @@
+# soby_mini
